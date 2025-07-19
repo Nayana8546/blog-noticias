@@ -19,4 +19,6 @@ Outro P
 [link] ("https://google.com.br)
 
 ### Adicionando imagens no markdown
-![pixbey]("https://pixabay.com/pt/photos/beb%C3%AA-dormindo-filho-rec%C3%A9m-nascido-7927869/")
+![pixbey](https://cdn.pixabay.com/photo/2023/04/15/14/43/baby-7927869_1280.jpg)
+
+[link] (https://nayana8546.github.io/blog-noticias/)
